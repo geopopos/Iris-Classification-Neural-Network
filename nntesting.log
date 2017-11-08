@@ -1,0 +1,40 @@
+Script started on Thu Nov  2 22:04:32 2017
+[?1034hbash-3.2$ connectSam [Kpythons[K[K[K[K[K[K[Kls
+irisNN.py	irisNN.py~	nntesting.log	practice
+bash-3.2$ python irisNN.py
+Training set score: 0.960000 (out of 1.0)
+Testing set score: 0.960000 (out of 1.0)
+bash-3.2$ python irisNN.py
+Training set score: 0.990000 (out of 1.0)
+Testing set score: 0.960000 (out of 1.0)
+bash-3.2$ python irisNN.py
+Training set score: 0.970000 (out of 1.0)
+Testing set score: 0.960000 (out of 1.0)
+bash-3.2$ python irisNN.py
+Training set score: 1.000000 (out of 1.0)
+Testing set score: 0.940000 (out of 1.0)
+bash-3.2$ python irisNN.py
+Training set score: 0.960000 (out of 1.0)
+Testing set score: 0.960000 (out of 1.0)
+bash-3.2$ python irisNN.py
+Training set score: 0.970000 (out of 1.0)
+Testing set score: 0.960000 (out of 1.0)
+bash-3.2$ python irisNN.py
+Training set score: 1.000000 (out of 1.0)
+Testing set score: 0.960000 (out of 1.0)
+bash-3.2$ python irisNN.py
+Training set score: 1.000000 (out of 1.0)
+Testing set score: 0.920000 (out of 1.0)
+bash-3.2$ python irisNN.py
+Training set score: 1.000000 (out of 1.0)
+Testing set score: 0.960000 (out of 1.0)
+bash-3.2$ python irisNN.py
+Training set score: 0.980000 (out of 1.0)
+Testing set score: 0.960000 (out of 1.0)
+bash-3.2$ python irisNN.py
+Training set score: 0.970000 (out of 1.0)
+Testing set score: 0.960000 (out of 1.0)
+bash-3.2$ exit
+exit
+
+Script done on Thu Nov  2 22:05:20 2017
